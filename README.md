@@ -1,0 +1,1 @@
+# smart-contracts-nft-hardhat-hardhat.config.ts
